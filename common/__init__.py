@@ -1,0 +1,2 @@
+def updatedanhmuc():
+    return None
